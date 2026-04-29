@@ -235,7 +235,6 @@ const ControlPanel = ({
           fontWeight: 500,
           letterSpacing: '0.05em',
         }}>
-          @code.akshat.in
         </span>
       </div>
     </div>
